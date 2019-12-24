@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://yoko-zeng.github.io/</id>
     <title>Yoko-Zeng</title>
-    <updated>2019-12-24T14:12:35.157Z</updated>
+    <updated>2019-12-24T14:14:56.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://yoko-zeng.github.io/"/>
+    <link rel="self" href="https://yoko-zeng.github.io//atom.xml"/>
     <subtitle>Yuting Zeng&apos;s blog</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://yoko-zeng.github.io//images/avatar.png</logo>
+    <icon>https://yoko-zeng.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Yoko-Zeng</rights>
     <entry>
         <title type="html"><![CDATA[Resume]]></title>
-        <id>http://localhost:4000/post/resume</id>
-        <link href="http://localhost:4000/post/resume">
+        <id>https://yoko-zeng.github.io//post/resume</id>
+        <link href="https://yoko-zeng.github.io//post/resume">
         </link>
         <updated>2019-12-24T03:33:45.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1577180436209.jpg" alt=""></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yoko-zeng.github.io//post-images/1577180436209.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>http://localhost:4000/post/about</id>
-        <link href="http://localhost:4000/post/about">
+        <id>https://yoko-zeng.github.io//post/about</id>
+        <link href="https://yoko-zeng.github.io//post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea</id>
-        <link href="http://localhost:4000/post/hello-gridea">
+        <id>https://yoko-zeng.github.io//post/hello-gridea</id>
+        <link href="https://yoko-zeng.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
