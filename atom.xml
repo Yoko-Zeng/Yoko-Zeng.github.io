@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://77isuki.github.io</id>
     <title>Yoko-Zeng</title>
-    <updated>2019-12-25T04:43:19.196Z</updated>
+    <updated>2019-12-25T04:44:50.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://77isuki.github.io"/>
     <link rel="self" href="https://77isuki.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://77isuki.github.io/images/avatar.png</logo>
     <icon>https://77isuki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Yoko-Zeng</rights>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://77isuki.github.io/post/11</id>
+        <link href="https://77isuki.github.io/post/11">
+        </link>
+        <updated>2019-12-25T04:44:37.000Z</updated>
+        <content type="html"><![CDATA[<p>22</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于Github&Gridea平台构建个人网站]]></title>
         <id>https://77isuki.github.io/post/ji-yu-githubandgridea-ping-tai-gou-jian-ge-ren-wang-zhan</id>
