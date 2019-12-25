@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://77isuki.github.io</id>
+    <id>https://yoko-zeng.github.io/</id>
     <title>Yoko-Zeng</title>
-    <updated>2019-12-25T04:44:50.012Z</updated>
+    <updated>2019-12-25T04:49:26.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://77isuki.github.io"/>
-    <link rel="self" href="https://77isuki.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yoko-zeng.github.io/"/>
+    <link rel="self" href="https://yoko-zeng.github.io//atom.xml"/>
     <subtitle>Yuting Zeng&apos;s blog</subtitle>
-    <logo>https://77isuki.github.io/images/avatar.png</logo>
-    <icon>https://77isuki.github.io/favicon.ico</icon>
+    <logo>https://yoko-zeng.github.io//images/avatar.png</logo>
+    <icon>https://yoko-zeng.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Yoko-Zeng</rights>
     <entry>
         <title type="html"><![CDATA[11]]></title>
-        <id>https://77isuki.github.io/post/11</id>
-        <link href="https://77isuki.github.io/post/11">
+        <id>https://yoko-zeng.github.io//post/11</id>
+        <link href="https://yoko-zeng.github.io//post/11">
         </link>
         <updated>2019-12-25T04:44:37.000Z</updated>
         <content type="html"><![CDATA[<p>22</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[基于Github&Gridea平台构建个人网站]]></title>
-        <id>https://77isuki.github.io/post/ji-yu-githubandgridea-ping-tai-gou-jian-ge-ren-wang-zhan</id>
-        <link href="https://77isuki.github.io/post/ji-yu-githubandgridea-ping-tai-gou-jian-ge-ren-wang-zhan">
+        <id>https://yoko-zeng.github.io//post/ji-yu-githubandgridea-ping-tai-gou-jian-ge-ren-wang-zhan</id>
+        <link href="https://yoko-zeng.github.io//post/ji-yu-githubandgridea-ping-tai-gou-jian-ge-ren-wang-zhan">
         </link>
         <updated>2019-12-25T03:49:20.000Z</updated>
         <content type="html"><![CDATA[<p>file:///C:/Users/Administrator/Desktop/%E5%9F%BA%E4%BA%8EGithub&amp;Gridea%E5%B9%B3%E5%8F%B0%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99.html</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Six team Git和GitHub入门指南（教程）]]></title>
-        <id>https://77isuki.github.io/post/111</id>
-        <link href="https://77isuki.github.io/post/111">
+        <id>https://yoko-zeng.github.io//post/111</id>
+        <link href="https://yoko-zeng.github.io//post/111">
         </link>
         <updated>2019-12-25T02:20:03.000Z</updated>
         <content type="html"><![CDATA[<p>file:///C:/Users/Administrator/Desktop/Six%20team%20Git%E5%92%8CGitHub%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%EF%BC%88%E6%95%99%E7%A8%8B%EF%BC%89.html</p>
@@ -39,32 +39,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Resume]]></title>
-        <id>https://77isuki.github.io/post/resume</id>
-        <link href="https://77isuki.github.io/post/resume">
+        <id>https://yoko-zeng.github.io//post/resume</id>
+        <link href="https://yoko-zeng.github.io//post/resume">
         </link>
         <updated>2019-12-24T03:33:45.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://77isuki.github.io/post-images/1577180436209.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://77isuki.github.io/post/about</id>
-        <link href="https://77isuki.github.io/post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yoko-zeng.github.io//post-images/1577180436209.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://77isuki.github.io/post/hello-gridea</id>
-        <link href="https://77isuki.github.io/post/hello-gridea">
+        <id>https://yoko-zeng.github.io//post/hello-gridea</id>
+        <link href="https://yoko-zeng.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
